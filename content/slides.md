@@ -106,7 +106,7 @@ title: Young NAI Slides
 
 ![[attachments/Young NAI workshop/Slide5.PNG]]
 #### 4.1.1.1 Cut Content
-> Oscillatory processes are the functional basis of homeostasis in the organism, allowing the occupation of a stable state in a dynamic and changing environment and maintaining the continuous functions necessary to survival. Neuronal assemblies such as Cardiopulmonary nerves maintain repetitious functions internally, while assemblies in the deep brain produce endogenous circadian rhythms which allow for the representation of external cycles of time. It follows that rhythmic processes set the basis of many biological functions, perhaps even forming the architectural basis for functional circuits beyond time encoding such as grid and place cells [[tekiPersistenceMemoryHow2017]] [[vagoRobustEfficientCoding2018]] Neural oscillations are ubiquitous throughout the brain at all scales, [[sreenivasanGridCellsGenerate2011a]].^[There is some debate as to if repetitious place/grid cells came first, or if periodic timing cells came first.]
+> Oscillatory processes are the functional basis of homeostasis in the organism, allowing the occupation of a stable state in a dynamic and changing environment and maintaining the continuous functions necessary to survival. Neuronal assemblies such as Cardiopulmonary nerves maintain repetitious functions internally, while assemblies in the deep brain produce endogenous circadian rhythms which allow for the representation of external cycles of time. It follows that rhythmic processes set the basis of many biological functions, perhaps even forming the architectural basis for functional circuits beyond time encoding such as grid and place cells [[@tekiPersistenceMemoryHow2017]] [[@vagoRobustEfficientCoding2018]] Neural oscillations are ubiquitous throughout the brain at all scales, [[@sreenivasanGridCellsGenerate2011a]].^[There is some debate as to if repetitious place/grid cells came first, or if periodic timing cells came first.]
 ##### 4.1.1.1.1 Citation
 [[@buzsakiBrainRhythmsHave2023]]
 
@@ -174,9 +174,9 @@ title: Young NAI Slides
 - 
 - Additionally this can be layered and replicated in more localized regions which are phase locked to a particular task or association
 ##### 6.1.1.1.1 Citations
-[[matellNeuropsychologicalMechanismsInterval2000]]
+[[@matellNeuropsychologicalMechanismsInterval2000]]
 [[@matellCorticostriatalCircuitsInterval2004]]
-[[allmanPathophysiologicalDistortionsTime2012]] 
+[[@allmanPathophysiologicalDistortionsTime2012]] 
 [[@yinOscillationCoincidenceDetectionModels2022]]
 
 ---
@@ -220,9 +220,9 @@ title: Young NAI Slides
 	- Almost an inverse one
 
 ##### 7.1.1.1.1 Citations
-[[littlestoneWeightedMajorityAlgorithm1994]]
-[[wolfOptimalCrawlingStrategies2002]]
-[[kolobovStayingDateOnline2019]]
+[[@littlestoneWeightedMajorityAlgorithm1994]]
+[[@wolfOptimalCrawlingStrategies2002]]
+[[@kolobovStayingDateOnline2019]]
 
 
 # 8 Three-Factor STDP Models
