@@ -1,3 +1,6 @@
+---
+title: Back-Prop wo Calc
+---
 See below.
 # The Calculus you need to know 
 I explain a little bit about what calculus actually means in the Loss Landscape section, but I will briefly repeat it here.
