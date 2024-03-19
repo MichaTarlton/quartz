@@ -1,6 +1,6 @@
 ---
 title: Young NAI Slides
-draft: true
+draft: false
 ---
 
 > [!Summary]
