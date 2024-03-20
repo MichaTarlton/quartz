@@ -1,5 +1,5 @@
 ---
-title: Young NAI Slides
+title: RITMO Collab Slides
 draft: false
 ---
 
@@ -54,8 +54,8 @@ draft: false
 # 3 The Credit Assignment Problem
 - Deep Learning (and deep SNNs) has been limited by the current method of credit-assignment: Back-Propagation
 - We know that back-propagation is not biologically plausible 
-	- In addition to observably being straight up inefficient
-- If we are going to take full advantage advantage of SNNs we must apply better methods of credit-assignment
+	- In addition to being incredibly inefficient
+- If we are going to take full advantage advantage of SNNs we need better methods of credit-assignment
 	- such as those we see in the brain
 
 - Back-propagation fails to correctly assign credit in *“deep*” and non-linear systems
@@ -79,6 +79,12 @@ draft: false
 
 ---
 # 4 Temporal Dynamics
+Time properties are key to understanding the neural dynamics of the brain.
+
+Timing dynamics are also relatively underdeveloped in the field of artificial neural networks.
+
+Where modern neural networks “unroll” time-separated moments of neural processing into extended static layers.
+
 - Temporal dynamics are found throughout the brain at all scales 
 - And we know of many time-based mechanisms in the brain, 
 	-  Neural oscillations and memory consolidation [[@buzsakiBrainRhythmsHave2023]]
