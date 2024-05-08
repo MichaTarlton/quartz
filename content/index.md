@@ -16,7 +16,8 @@ April 2022 – Current
 - Potential neuromorphic hardware applications
 
 # AAMAS 2024
-![[AAMAS 2024_published.pdf]]
+[[AAMAS 2024_published.pdf|See the poster here!]]
+![[AAMAS 2024_published.pdf|100]]
 
 
 # Young NeuroAI Workshop Slides
