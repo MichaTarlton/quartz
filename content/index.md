@@ -17,7 +17,8 @@ April 2022 – Current
 
 # AAMAS 2024
 [[AAMAS 2024_published.pdf|See the poster here!]]
-![[AAMAS 2024_published.pdf|100]]
+
+![[AAMAS 2024_published.pdf|100x145]]
 
 
 # Young NeuroAI Workshop Slides
