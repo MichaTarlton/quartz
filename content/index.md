@@ -15,10 +15,12 @@ April 2022 – Current
 - Biologically inspired learning and time representation mechanisms
 - Potential neuromorphic hardware applications
 
+# AAMAS 2024
+![[AAMAS 2024_published.pdf]]
+
+
 # Young NeuroAI Workshop Slides
 [See the slides here.](slides)
-# Latest Work
-![[attachments/CNS 2023 Poster - final.png]]
 
 # Lectures
 ## [[Back-Propagation without Calculus]]
