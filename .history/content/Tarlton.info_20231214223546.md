@@ -8,7 +8,7 @@ M@Tarlton.info
 [LinkedIn](https://www.linkedin.com/in/m-tarlton/)
 [GitHub](https://github.com/MichaTarlton)
 [Twitter](https://twitter.com/michaeta)
-# Testing new changes!
+
 ## Current Work
 ### PhD Candidate at Oslo Metropolitan University
 Oslo, Norway
