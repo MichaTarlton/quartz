@@ -2,7 +2,7 @@
 title: Tarlton.info
 ---
 
-# Testing New Quartz
+# Testing New Changes!
 # Michael Tarlton
 
 Michaelt@oslomet.no | 
