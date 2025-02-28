@@ -80,7 +80,7 @@ December 2017 – July 2018
 ### Research Intern - xREZ Art + Science Lab at the University of North Texas
 Denton, Texas 
 June 2016 – May 2017
-- Astronomy researcher for _Instrument: One Antarctic Night_ project
+- Astronomy consultant for _Instrument: One Antarctic Night_ project
 
 ### Sr. Support Technician - ServiceLedger 
 Lake Dallas, Texas 
