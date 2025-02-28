@@ -2,7 +2,6 @@
 title: Tarlton.info
 ---
 
-# Testing New Changes!
 # Michael Tarlton
 
 Michaelt@oslomet.no | 
@@ -19,9 +18,6 @@ April 2022 – Current
 
 # AAMAS 2024
 [[AAMAS 2024_published.pdf|See the poster here!]]
-
-![[AAMAS 2024_published.pdf]]
-
 
 # Young NeuroAI Workshop Slides
 [See the slides here.](slides)
