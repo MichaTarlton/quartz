@@ -3,7 +3,7 @@ title: Tarlton.info
 ---
 
 # Michael Tarlton
-
+# testing changes
 Michaelt@oslomet.no | 
 M@Tarlton.info | 
 [LinkedIn](https://www.linkedin.com/in/m-tarlton/) | 
