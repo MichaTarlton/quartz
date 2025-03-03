@@ -3,9 +3,9 @@ title: Tarlton.info
 ---
 
 # Michael Tarlton
-# testing changes
-Michaelt@oslomet.no | 
-M@Tarlton.info | 
+
+Michaelt (at) oslomet.no | 
+M (at) Tarlton.info | 
 [LinkedIn](https://www.linkedin.com/in/m-tarlton/) | 
 [GitHub](https://github.com/MichaTarlton) | 
 [Twitter](https://twitter.com/michaeta)
