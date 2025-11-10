@@ -20,7 +20,7 @@ April 2022 – Current
 [[AAMAS 2024_published.pdf|See the poster here!]]
 
 # Young NeuroAI Workshop Slides
-[See the slides here.](slides)
+[See the slides here.](slides.md)
 
 # Lectures
 ## [[Back-Propagation without Calculus]]
