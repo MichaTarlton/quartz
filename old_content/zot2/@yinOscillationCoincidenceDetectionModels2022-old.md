@@ -49,9 +49,9 @@ SORT file.cday DESC
 
 # Further Reading 
 - [ ] [[Shi, Z., Gu, B., Glasauer, S., Meck, W. H., (2022)]]. Beyond scalar timing theory: integrating neural oscillators with computational accessibility in memory, Timing Time Percept. (current issue).   #rd #p5 🛫 2022-11-21 
-- [[@guOscillatoryMultiplexingNeural2015a|B. Gu, H. van Rijn, W.H. Meck (2015)]]
-- [[@tekiPersistenceMemoryHow2017|S. Teki, B. Gu, W.H. Meck (2017)]]
-- [[@allmanPathophysiologicalDistortionsTime2012|M.J. Allman, W.H. Meck (2012)]]
+- [[old_content/zot2/@guOscillatoryMultiplexingNeural2015a|B. Gu, H. van Rijn, W.H. Meck (2015)]]
+- [[old_content/zot2/@tekiPersistenceMemoryHow2017|S. Teki, B. Gu, W.H. Meck (2017)]]
+- [[old_content/zot2/@allmanPathophysiologicalDistortionsTime2012|M.J. Allman, W.H. Meck (2012)]]
 - [ ] Bose, A., Byrne, Á., & Rinzel, J. ^[2019]. A neuromechanistic model for rhythmic beat generation. PLoS Comput. Biol., 15, e1006450. doi: 10.1371/journal.pcbi.1006450. ^[p. 28]  #rd #p5 🛫 2022-11-21 
 - [ ] Hardy, N. F., & Buonomano, D. V. ^[2016]. Neurocomputational models of interval and pattern timing. Curr. Opin. Behav. Sci., 8, 250–257. doi: 10.1016/j.cobeha.2016.01.012. ^[p. 32]  #rd #p5 🛫 2022-11-21 
 - [ ] Toda, K., Lusk, N. A., Watson, G. D. R., Kim, N., Lu, D., Li, H. E., Meck, W. H., & Yin, H. H. ^[2017]. Nigrotectal stimulation stops interval timing in mice. Curr. Biol., 27, 3763–3770.e3. doi: 10.1016/j.cub.2017.11.003. ^[p. 41]  #rd #p5 🛫 2022-11-21 
@@ -77,9 +77,9 @@ SORT file.cday DESC
 
 ## 3. Oscillation/Coincidence-Detection Models of Timing: Time Base Specifications
 
-> *One of the most comprehensive and extensively studied models of interval timing is the SBF model of reward-related timing which is based, in part, upon the coincidence detection of oscillatory processes in CTBG circuits ^[e.g., Buhusi & Meck, 2005; Matell & Meck, 2004; Matell et al., 2003; Meck et al., 1998; Van Rijn et al., 2014 − please refer to [[@allmanPathophysiologicalDistortionsTime2012|appendix I]] for an up-to-date description of the SBF model simulation parameters as well as supporting information provided by Allman & Meck, 2012; Matell & Meck, 2004; Oprisan & Buhusi, 2011]. ^[p. 8] * 
+> *One of the most comprehensive and extensively studied models of interval timing is the SBF model of reward-related timing which is based, in part, upon the coincidence detection of oscillatory processes in CTBG circuits ^[e.g., Buhusi & Meck, 2005; Matell & Meck, 2004; Matell et al., 2003; Meck et al., 1998; Van Rijn et al., 2014 − please refer to [[old_content/zot2/@allmanPathophysiologicalDistortionsTime2012|appendix I]] for an up-to-date description of the SBF model simulation parameters as well as supporting information provided by Allman & Meck, 2012; Matell & Meck, 2004; Oprisan & Buhusi, 2011]. ^[p. 8] * 
 
-- Added the [[@allmanPathophysiologicalDistortionsTime2012|appendix]] they are talking about. See notes above.
+- Added the [[old_content/zot2/@allmanPathophysiologicalDistortionsTime2012|appendix]] they are talking about. See notes above.
 
 > *The SBF model posits that at the onset of a ‘to-be-timed’ signal, populations of cortical and thalamic neurons reset their phase/synchronize and begin oscillating at their endogenous periodicities, including subthreshold membrane oscillations, spiking, and mixed-mode oscillations ^[e.g., V-Ghaffari et al., 2016, 2017]. ^[p. 8] *  ^j6b5hj
 
@@ -100,7 +100,7 @@ SORT file.cday DESC
  
 > *They present a variation of the beat-frequency coincidence-detection model ^[Buhusi & Meck, 2005; Matell & Meck, 2000, 2004; Miall, 1989, 1992, 1996] using noisy oscillators whose timing properties are derived from prior in vivo data ^[Xu et al., 2014]. Their results as well as those of Herrmann et al. ^[2013] suggest that neural-phase oscillatory patterns are the primary information-bearing elements in the types of neural population coding currently advocated by other investigators ^[e.g., Paton & Buonomano, 2018]. ^[p. 11] * 
 
-> *Importantly, [[@xuTimingIntervalsUsing2016|Xu and Baker (2016)]] demonstrate that a large population of resetting oscillators with randomly distributed intrinsic timing parameters and millisecond timescales can be trained to encode specific time intervals in the seconds range using population synchrony and spike-time-dependent plasticity ^[e.g., Bi & Poo, 1998; Markram et al., 1997]. ^[p. 11] * 
+> *Importantly, [[old_content/zot2/@xuTimingIntervalsUsing2016|Xu and Baker (2016)]] demonstrate that a large population of resetting oscillators with randomly distributed intrinsic timing parameters and millisecond timescales can be trained to encode specific time intervals in the seconds range using population synchrony and spike-time-dependent plasticity ^[e.g., Bi & Poo, 1998; Markram et al., 1997]. ^[p. 11] * 
 
 ^53p7aa
 
@@ -193,7 +193,7 @@ SORT file.cday DESC
 > Taken together, this leads to a systematic relation between frequency bands and time representation − a type of chronotropy.
 
 
-> *In addition, the EIO model can explain not only an interval duration in the suprasecond range, but also multiple subsecond durations maintained in working memory ^[[[@tekiPersistenceMemoryHow2017|Teki et al., 2017]]].
+> *In addition, the EIO model can explain not only an interval duration in the suprasecond range, but also multiple subsecond durations maintained in working memory ^[[[old_content/zot2/@tekiPersistenceMemoryHow2017|Teki et al., 2017]]].
 > 
 > For example, a triggering event (e.g., light or sound) can drive various frequencies of excitatory oscillators in the beta frequency range across a cell population (desynchronized) with relatively synchronized inhibitory oscillators. 
 > 

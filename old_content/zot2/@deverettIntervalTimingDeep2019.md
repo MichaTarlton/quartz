@@ -34,7 +34,7 @@ This work characterize the strategies developed by recurrent and feedforward age
 # Tasks
 
 #  Further reading
-[[@jazayeriNeuralMechanismSensing2015]]
+[[old_content/zot2/@jazayeriNeuralMechanismSensing2015]]
 
 
 

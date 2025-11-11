@@ -42,7 +42,7 @@ Analysis of response dynamics further linked the rate of change of firing rates 
 # Tasks
 
 # Derivative works
-[[@kononowiczTimingTimePerception2018]]
+[[old_content/zot2/@kononowiczTimingTimePerception2018]]
 
 <iframe src="https://www.connectedpapers.com/main/f61339bf9ca1f98e602eb69f165372effa453856/A-Neural-Mechanism-for-Sensing-and-Reproducing-a-Time-Interval/derivative" allow="fullscreen" allowfullscreen="" style="width: 100%; aspect-ratio: 1 / 1;"></iframe>
 

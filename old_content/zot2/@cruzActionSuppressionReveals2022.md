@@ -20,7 +20,7 @@ Failure to maintain position in the initiation port until the second tone led to
 
 # Top Comments
 - [ ] [Action suppression reveals opponent parallel control via striatal circuits | Nature](https://www.nature.com/articles/s41586-022-04894-9) #reading #timing-task #interval-timing  ^0w02ni
-	- Turned this into [[@cruzActionSuppressionReveals2022|Bruno F. Cruz, Gonçalo Guiomar, Sofia Soares, Asma Motiwala, Christian K. Machens, Joseph J. Paton 2022]] ^4h0zh9
+	- Turned this into [[old_content/zot2/@cruzActionSuppressionReveals2022|Bruno F. Cruz, Gonçalo Guiomar, Sofia Soares, Asma Motiwala, Christian K. Machens, Joseph J. Paton 2022]] ^4h0zh9
 	- Temporal bisection task that relies on stim in a different way ^444vwj
 	- More in line with a interval task methinks ^wbq20l
 	- [Scientists discover how the brain keeps the urge to act in check | Champalimaud Foundation](https://fchampalimaud.org/news/scientists-discover-how-brain-keeps-urge-act-check) ^l0p5n2

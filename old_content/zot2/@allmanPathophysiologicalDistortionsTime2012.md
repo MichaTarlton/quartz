@@ -27,7 +27,7 @@ SORT file.cday DESC
 
 # Quick Reference
 ==In this sense, the timekeeper of the striatal beat frequency model is not a ‘dedicated’ clock in that it makes use of neural processes that are coding other aspects of the stimulus, including basic working memory processes ([Lustig _et al_., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3491636/#awr210-B136)).== 
-	- **See [[@allmanPathophysiologicalDistortionsTime2012#Appendix I]] for description of SBF**
+	- **See [[old_content/zot2/@allmanPathophysiologicalDistortionsTime2012#Appendix I]] for description of SBF**
 
 # Top Comments
 

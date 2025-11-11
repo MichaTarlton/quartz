@@ -32,7 +32,7 @@ SORT file.cday DESC
 Let's say grey is for overall comments
 This is actually not super useful to me. It mainly relies on the synfire chain method, which is a population encoding that relis on delay line encoding
 
-## Why was this related to [[@yinOscillationCoincidenceDetectionModels2022-old]]?
+## Why was this related to [[old_content/zot2/@yinOscillationCoincidenceDetectionModels2022-old]]?
  Just an off reference to how time intervals are recorded
 
 # Tasks

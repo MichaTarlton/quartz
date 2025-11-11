@@ -168,7 +168,7 @@ To guide behavior and learn from its consequences, the brain must represent time
 > *“Decodings and decoders”* (p. 38)-  
 ==***“pick back up here.Actually , while this section is more interesting to me, it is a good place to skip in relation to the current assignment”***==
 > *“CHAPTER 2: A scalable population code for time in the striatum”* (p. 58)-  
-==***“So I'm going to comment on this from the paper [[@melloScalablePopulationCode2015]]”***== ^31km87
+==***“So I'm going to comment on this from the paper [[old_content/zot2/@melloScalablePopulationCode2015]]”***== ^31km87
 -  
 -  
 -  

@@ -19,7 +19,7 @@ Finally, we use FORCE training to create two biologically motivated model circui
 
 
 # Top Comments
-From [[@zenkeVisualizingJointFuture2021|@zenkeVisualizingJointFuture2021]]
+From [[old_content/zot2/@zenkeVisualizingJointFuture2021|@zenkeVisualizingJointFuture2021]]
 > Time-continuous processing with instantaneous rates One of the first studies to showcase the potential of approaches to build spiking neural networks that solve concrete biological problems adapted the classic FORCE training algorithm for recurrent spiking neural networks (Nicola and Clopath, 2017). The central idea, which sidesteps the problem of having to compute gradients through spikes, is to solve a regression problem at every instant of time over linear combinations of temporally filtered spike trains while using the postsynaptic potential as the filter kernel. This approach does not require stationary firing rates, readily solves complex sequence generation problems, and is robust to the choice of neuron model.
 
 

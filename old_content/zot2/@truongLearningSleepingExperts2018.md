@@ -24,7 +24,7 @@ SORT file.cday DESC
 # Quick Reference
 
 # Top Notes
-So I was trying to find work descended from [[@littlestoneWeightedMajorityAlgorithm1994]] but I’m really not certain if any of it is related to my SBFA project.
+So I was trying to find work descended from [[old_content/zot2/@littlestoneWeightedMajorityAlgorithm1994]] but I’m really not certain if any of it is related to my SBFA project.
 
 This one seemed to have some sort of temporal element to it
 

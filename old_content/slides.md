@@ -25,11 +25,11 @@ draft: false
 >  - Overlap with 3fa-STDP
 
 ---
-![[Slide1.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide1.PNG]]
 ---
 # 1 Introduction
 - Hello I’m Michael Tarlton
-![[Slide2.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide2.PNG]]
 
 ---
 # 2 Creating a new type of model
@@ -48,7 +48,7 @@ draft: false
 - and while specialized DL models may be capable of one or more of these features to some degree
 - There are no feed forward - back propagation networks that are capable of all them
 - And this is a limitation of how these networks learn
-![[Slide3.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide3.PNG]]
 
 ---
 # 3 The Credit Assignment Problem
@@ -72,7 +72,7 @@ draft: false
 - However because spiking neuronal communication is inherently time-based
 - We may be able to use time as a dimension to triangulate credit assignments through these deep and otherwise unnavigable systems 
 
-![[Slide4.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide4.PNG]]
 #### 3.1.1.1 Cut Content
 - Neural oscillations may be used to synchronize neural circuits deep within the substrate with meaningful inputs 
 - and lock their activity to the timing of the associated signal 
@@ -87,7 +87,7 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 
 - Temporal dynamics are found throughout the brain at all scales 
 - And we know of many time-based mechanisms in the brain, 
-	-  Neural oscillations and memory consolidation [[@buzsakiBrainRhythmsHave2023]]
+	-  Neural oscillations and memory consolidation [[old_content/zot2/@buzsakiBrainRhythmsHave2023]]
 	- Spike-Timing Dependent-Plasticity (STDP)
 	- Bursts / Spindles / Rate-Encoding
 	- Event-Driven Computation
@@ -111,11 +111,11 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - What is the receptive field of time,
 - the smallest perception of time in the brain? 
 
-![[Slide5.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide5.PNG]]
 #### 4.1.1.1 Cut Content
-> Oscillatory processes are the functional basis of homeostasis in the organism, allowing the occupation of a stable state in a dynamic and changing environment and maintaining the continuous functions necessary to survival. Neuronal assemblies such as Cardiopulmonary nerves maintain repetitious functions internally, while assemblies in the deep brain produce endogenous circadian rhythms which allow for the representation of external cycles of time. It follows that rhythmic processes set the basis of many biological functions, perhaps even forming the architectural basis for functional circuits beyond time encoding such as grid and place cells [[@tekiPersistenceMemoryHow2017]] [[@vagoRobustEfficientCoding2018]] Neural oscillations are ubiquitous throughout the brain at all scales, [[@sreenivasanGridCellsGenerate2011a]].^[There is some debate as to if repetitious place/grid cells came first, or if periodic timing cells came first.]
+> Oscillatory processes are the functional basis of homeostasis in the organism, allowing the occupation of a stable state in a dynamic and changing environment and maintaining the continuous functions necessary to survival. Neuronal assemblies such as Cardiopulmonary nerves maintain repetitious functions internally, while assemblies in the deep brain produce endogenous circadian rhythms which allow for the representation of external cycles of time. It follows that rhythmic processes set the basis of many biological functions, perhaps even forming the architectural basis for functional circuits beyond time encoding such as grid and place cells [[old_content/zot2/@tekiPersistenceMemoryHow2017]] [[old_content/zot2/@vagoRobustEfficientCoding2018]] Neural oscillations are ubiquitous throughout the brain at all scales, [[old_content/zot2/@sreenivasanGridCellsGenerate2011a]].^[There is some debate as to if repetitious place/grid cells came first, or if periodic timing cells came first.]
 ##### 4.1.1.1.1 Citation
-[[@buzsakiBrainRhythmsHave2023]]
+[[old_content/zot2/@buzsakiBrainRhythmsHave2023]]
 
 ---
 # 5 Interval Timing
@@ -131,7 +131,7 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - ***If we can study how microscale time-dynamics of neurons give emergence to macroscale temporal dynamics,*** 
 	- ***We may be able to understand how these networks learn as well as key fundamentals of neural dynamics as a whole.***
 
-![[Slide6.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide6.PNG]]
 #### 5.1.1.1 Cut Content
 - Spike-Timing Dependent-Plasticity (STDP) is a well studied mechanism of local learning in biological neurons 
 -  In which the timing of neuronal activity in relation to each other decides the likelihood of strengthening or weakening their connections, 
@@ -140,8 +140,8 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - *It is possible the most fundamental aspect of timing in the brain, may be built out an ensemble of individual neurons*
 
 ##### 5.1.1.1.1 Citation
-[[@melloNeuralBehavioralMechanisms2016]]
-[[@gerstnerEligibilityTracesPlasticity2018]]
+[[old_content/zot2/@melloNeuralBehavioralMechanisms2016]]
+[[old_content/zot2/@gerstnerEligibilityTracesPlasticity2018]]
 
 ---
 # 6 Striatal beat Frequency Models
@@ -171,7 +171,7 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - 
 - This can be effectively abstracted as a type of reinforcement learning automata
 
-![[Slide8.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide8.PNG]]
 #### 6.1.1.1 Cut Content
 - At the onset of a "to-be-timed" signal (the detection of meaningful stimuli or environmental event), 
 - These oscillatory ensembles may reset their phase / resynchronize, and begin oscillating at their endogenous periodicities.
@@ -181,10 +181,10 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - 
 - Additionally this can be layered and replicated in more localized regions which are phase locked to a particular task or association
 ##### 6.1.1.1.1 Citations
-[[@matellNeuropsychologicalMechanismsInterval2000]]
+[[old_content/zot2/@matellNeuropsychologicalMechanismsInterval2000]]
 [[@matellCorticostriatalCircuitsInterval2004]]
-[[@allmanPathophysiologicalDistortionsTime2012]] 
-[[@yinOscillationCoincidenceDetectionModels2022]]
+[[old_content/zot2/@allmanPathophysiologicalDistortionsTime2012]] 
+[[old_content/zot2/@yinOscillationCoincidenceDetectionModels2022]]
 
 ---
 # 7 Implementing in an Automata Framework
@@ -208,7 +208,7 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - Now this successful at reproducing a single target time-interval
 - It just depends on the number and distribution of oscillators you use
 
-![[Slide11.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide11.PNG]]
 
 ## 7.1 Complex signals
 - As the output of one of these automata will be a more complex phasic waveform
@@ -217,8 +217,8 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 	- Which is seen in time-cells
 - Perhaps we may be able to even intake more complex timing information from the environment, such as an event driven camera
 
-![[Slide12.PNG]]
-![[Slide13.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide12.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide13.PNG]]
 #### 7.1.1.1 Cut Content
 - Where the cyclic activity of the oscillators have some probability of occurring simultaneously with a target time-interval
 - In a discrete automata model this can be mapped to a multiple automata which "wake" on an unique oscillatory cycle, and "vote" to check for some event. 
@@ -227,9 +227,9 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 	- Almost an inverse one
 
 ##### 7.1.1.1.1 Citations
-[[@littlestoneWeightedMajorityAlgorithm1994]]
-[[@wolfOptimalCrawlingStrategies2002]]
-[[@kolobovStayingDateOnline2019]]
+[[old_content/zot2/@littlestoneWeightedMajorityAlgorithm1994]]
+[[old_content/zot2/@wolfOptimalCrawlingStrategies2002]]
+[[old_content/zot2/@kolobovStayingDateOnline2019]]
 
 
 # 8 Three-Factor STDP Models
@@ -255,7 +255,7 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - If we find effective network architectures in more complicated SBFA models,
 - then perhaps we can implement them with 3-factor STDP neurons, for use in SNNs
 
-![[Slide14.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide14.PNG]]
 
 ---
 ## 8.1 Three-Factor STDP in Reservoirs
@@ -263,5 +263,5 @@ Where modern neural networks “unroll” time-separated moments of neural proce
 - We would like to see how these units learn in a reservoir type architecture
 - Where we may be able to observe properties of self-organizing behavior including emergent architectures and macroscale temporal dynamics, such as neural oscillations or observed animal behavior patterns
 # 9 End Summary
-![[Slide15.PNG]]
+![[old_content/attachments/Young NAI workshop/Slide15.PNG]]
 ---
