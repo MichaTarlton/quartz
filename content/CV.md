@@ -1,5 +1,5 @@
 ---
-title: Tarlton - CV
+title: CV - Tarlton
 ---
 > [!Abstract] About Me
 > A decade plus of experience in computational scientific research and technology related fields, with a background in computational mathematics, statistical physics, and neuroscience. I have a keen focus on studying the mechanisms of the human brain, and the fundamentals of the dynamics of information. I’m currently pursuing the emerging field of neuroscience based AI models and AI-specific design for low-energy edge hardware. My aim is to create novel learning methods for spiking neural networks and physics-based models for the next generation of machine learning.

@@ -1,7 +1,13 @@
 ---
 title: Back-Prop wo Calc
 ---
-See below.
+
+> [!Abstract] About
+> This was for a course I taught on machine learning. I couldn't quite find a description of Back-Propagation in the literature that I really liked and thought could describe the process to students in a intuitive way. I borrowed illustrations and inspiration from threeblueonebrown's video on the topic, and [they also have a better lesson on the subject here.](https://www.3blue1brown.com/lessons/backpropagation-calculus) 
+> 
+> Some typos below that will be corrected at a future time.
+
+---
 # The Calculus you need to know 
 I explain a little bit about what calculus actually means in the Loss Landscape section, but I will briefly repeat it here.
 
@@ -12,8 +18,6 @@ $$
 Where $x$ is the input variable, and $y$ is the output variable. I will also use $g$ later on to describe a second function.
 
 *“Doing Calculus”*, also known as ***“Differentiating”***, tells you how *fast* one variable is changing, with respect to (wrt), another variable. If the original function gives us a “shape” or curve of how to variables change wrt each other, differentiating gives us the *Gradient* of how they change wrt each other. This is the *”Gradient”* of *”Stochastic Gradient Descent”*.
-
-
 ## Power Law
 The most basic rule you will need. 
 Say we have some function $f(x)  = x^2$ that we want to differentiate, with respect to x (explanation for what that means in practical terms later on):
@@ -276,7 +280,7 @@ $y = 1.00$ (the target output)
 ---
 <div style="page-break-after: always;"></div>
 
-# Back-Propagation More Complicated
+# More Complicated Back-Propagation
 ![[old_content/attachments/Backprop chain Drawing 4.png]]
 
 You can work on this if you’d like some extra practice. And I would actually encourage doing this particular problem.
@@ -301,7 +305,7 @@ $w_{jk}^{L} = 0.66$
 $y = 1.00$ (the target output)
 
 ---
-# Hella Complicated Example
+# Complicated Example
 ![[old_content/attachments/Backprop chain Drawing 5.png]]
 Just re-illustrating the example from the Russell book Chapter 21. Note how the unit “numbers” have changed.
 Give it a shot if you have literally nothing else to do. There is a reason we make computers do this.

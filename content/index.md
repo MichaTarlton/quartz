@@ -1,8 +1,7 @@
 ---
 title: Mike's Homepage
 ---
-| Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin.com/in/m-tarlton/) |  [GitHub](https://github.com/MichaTarlton) |  [Twitter](https://twitter.com/michaeta) |
-[Subscribe to RSS](https://tarlton.info/index.xml)
+Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin.com/in/m-tarlton/) |  [GitHub](https://github.com/MichaTarlton) |  [Twitter](https://twitter.com/michaeta) |  [Subscribe to RSS](https://tarlton.info/index.xml)
 
 **Hi! I'm Mike a Neuro-AI researcher and PhD candidate at Oslo Metropolitan University. This is is my personal webpage while I slowly build and transition it into a repository for information surrounding Neuro-AI. [Subscribe to my blog here](https://magic.beehiiv.com/v1/31a93b49-0c56-4395-9dbd-c86032593a94?email={{email}}) or [to my RSS feed.](https://tarlton.info/index.xml)**
 
@@ -21,4 +20,4 @@ title: Mike's Homepage
 ---
 ![](https://neuroai.beehiiv.com/)
 
-![](https://magic.beehiiv.com/v1/31a93b49-0c56-4395-9dbd-c86032593a94?email=%7B%7Bemail%7D%7D)
+<form method="post" action="/v1/31a93b49-0c56-4395-9dbd-c86032593a94?index&amp;email=%7B%7Bemail%7D%7D" class="flex flex-col justify-center w-full max-w-lg space-y-4 md:items-center md:mx-auto"><div class="grid w-full grid-cols-4 gap-1"><input name="signup[email]" required="" type="email" autocomplete="email" placeholder="What's your email?" class="w-full col-span-4 px-6 py-3 text-gray-900 bg-gray-100 rounded-lg md:col-span-3"><button type="submit" class="w-full hover:shadow-xl shadow-lg bg-gray-900 px-6 py-3 rounded-lg text-white text-center hover:scale-[1.01] active:scale-100 duration-500 disabled:bg-gray-500 col-span-4 md:col-span-1"><span>Subscribe</span></button></div><p></p><input type="hidden" name="redirect_to" value=""><input type="hidden" name="redirect_delay" value=""><input type="hidden" name="referer" value=""><input type="hidden" name="bhcl_id" value=""><input type="hidden" name="signup[utm_source]" value=""><input type="hidden" name="signup[utm_medium]" value=""><input type="hidden" name="signup[utm_campaign]" value=""><input type="hidden" name="signup[utm_content]" value=""><input type="hidden" name="signup[utm_term]" value=""><input type="hidden" name="signup[recommendation_id]" value=""><input type="hidden" name="signup[boost_send_id]" value=""></form>
