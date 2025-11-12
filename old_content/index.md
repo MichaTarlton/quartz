@@ -22,4 +22,4 @@ April 2022 – Current
 [See the slides here.](old_content/slides.md)
 
 # Lectures
-## [[old_content/Back-Propagation without Calculus]]
+## [[Back-Propagation without Calculus old]]
