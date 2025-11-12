@@ -1,11 +1,10 @@
 ---
 title: Mike's Homepage
 ---
-
 | Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin.com/in/m-tarlton/) |  [GitHub](https://github.com/MichaTarlton) |  [Twitter](https://twitter.com/michaeta) |
-[Subscribe to RSS](`https://tarlton.info/index.xml`)
+[Subscribe to RSS](https://tarlton.info/index.xml)
 
-**Hi! I'm Mike a Neuro-AI researcher and PhD candidate at Oslo Metropolitan University. This is is my personal webpage while I slowly build and transition it into a repository for information surrounding Neuro-AI. Subscribe to updates via the link below.**
+**Hi! I'm Mike a Neuro-AI researcher and PhD candidate at Oslo Metropolitan University. This is is my personal webpage while I slowly build and transition it into a repository for information surrounding Neuro-AI. [Subscribe to my blog here](https://magic.beehiiv.com/v1/31a93b49-0c56-4395-9dbd-c86032593a94?email={{email}}) or [to my RSS feed.](https://tarlton.info/index.xml)**
 
 **If you are reaching this from the IEEE NER 2025 Conference you can [[NER_2025|find more about my submission here]]. Otherwise check out my work and various projects below.** 
 
