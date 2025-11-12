@@ -7,7 +7,7 @@ Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin
 
 **If you are reaching this from the IEEE NER 2025 Conference you can [[NER_2025|find more about my submission here]]. Otherwise check out my work and various projects below.** 
 
-**I'm currently searching for a new position, and would like to join a research project aimed at building neuroscience based AI and neuromorphic hardware design. Please contact me at any of the methods below if you think I might be the right person for you team.**
+**I'm currently searching for a new position, and would like to join a research project aimed at building neuroscience based AI and neuromorphic hardware design. Please contact me at any of the methods above if you think I might be the right person for you team.**
 ## [[NER_2025|IEEE NER 2025 Submission: Investigation of Novel SBF-Automata Architecture for Periodicity Finding Solutions at Edge Systems]]
 ---
 > [!NOTE] [About Mike:](CV)
@@ -18,6 +18,4 @@ Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin
 
 ---
 I am slowly porting much of my research to here and my blog, so subscribe to my blog or to the RSS feed for future updates.
-<form method="post" action="/v1/31a93b49-0c56-4395-9dbd-c86032593a94?index&amp;email=%7B%7Bemail%7D%7D" class="flex flex-col justify-center w-full max-w-lg space-y-4 md:items-center md:mx-auto"><div class="grid w-full grid-cols-4 gap-1"><input name="signup[email]" required="" type="email" autocomplete="email" placeholder="What's your email?" class="w-full col-span-4 px-6 py-3 text-gray-900 bg-gray-100 rounded-lg md:col-span-3"><button type="submit" class="w-full hover:shadow-xl shadow-lg bg-gray-900 px-6 py-3 rounded-lg text-white text-center hover:scale-[1.01] active:scale-100 duration-500 disabled:bg-gray-500 col-span-4 md:col-span-1"><span>Subscribe</span></button></div><p></p><input type="hidden" name="redirect_to" value=""><input type="hidden" name="redirect_delay" value=""><input type="hidden" name="referer" value=""><input type="hidden" name="bhcl_id" value=""><input type="hidden" name="signup[utm_source]" value=""><input type="hidden" name="signup[utm_medium]" value=""><input type="hidden" name="signup[utm_campaign]" value=""><input type="hidden" name="signup[utm_content]" value=""><input type="hidden" name="signup[utm_term]" value=""><input type="hidden" name="signup[recommendation_id]" value=""><input type="hidden" name="signup[boost_send_id]" value=""></form>
-
-<iframe src="https://neuroai.beehiiv.com/" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+%% <iframe src="https://neuroai.beehiiv.com/" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe> %%
