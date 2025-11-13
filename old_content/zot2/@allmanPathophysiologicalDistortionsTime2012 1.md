@@ -45,7 +45,7 @@ SORT file.cday DESC
 # Figures (blue)
 
 > [!Figure 1]
-> ![[PM44AE4Y.png]]
+> ![[public/Citations/allmanPathophysiologicalDistortionsTime2012_Amedia/PM44AE4Y.png]]
 > **Page 658**
 > 
 > ---
@@ -62,7 +62,7 @@ SORT file.cday DESC
 
 
 > [!Figure 2 #sbf]
-> ![[MLS4WS9C.png]]
+> ![[public/Citations/allmanPathophysiologicalDistortionsTime2012_Amedia/MLS4WS9C.png]]
 > **Page 666**
 > 
 > ---
@@ -77,7 +77,7 @@ SORT file.cday DESC
 > ^X369E2V8aYRPZ2V3Lp11
 
 > [!Figure 3]
-> ![[MCJF6XIZ.png]]
+> ![[public/Citations/allmanPathophysiologicalDistortionsTime2012_Amedia/MCJF6XIZ.png]]
 > **Page 671**
 > 
 > ---

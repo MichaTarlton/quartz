@@ -494,7 +494,7 @@ SORT file.cday DESC
 # Figures
 
 > [!Figure 2]
-> ![[PDX6EZ6V.png]]
+> ![[public/Citations/yinOscillationCoincidenceDetectionModels2022_Amedia/PDX6EZ6V.png]]
 > **Page 9**
 > 
 > ---
@@ -513,7 +513,7 @@ SORT file.cday DESC
 > ^72FKQXQNaZSPJBY57p9
 
 > [!Figure 3.]
-> ![[BNAK5YLS.png]]
+> ![[public/Citations/yinOscillationCoincidenceDetectionModels2022_Amedia/BNAK5YLS.png]]
 > **Page 13**
 > 
 > ---
@@ -531,7 +531,7 @@ SORT file.cday DESC
 > ^6BGY6WJ4aZSPJBY57p13
 
 > [!Figure 4]
-> ![[H6TMS9N3.png]]
+> ![[public/Citations/yinOscillationCoincidenceDetectionModels2022_Amedia/H6TMS9N3.png]]
 > **Page 20**
 > 
 > ---

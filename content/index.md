@@ -1,9 +1,9 @@
 ---
-title: Mike's Homepage
+title: NeuroAI Wiki – Cortex
 ---
 Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin.com/in/m-tarlton/) |  [GitHub](https://github.com/MichaTarlton) |  [Twitter](https://twitter.com/michaeta) |  [Subscribe to RSS](https://tarlton.info/index.xml)
 
-**Hi! I'm Mike a Neuro-AI researcher and PhD candidate at Oslo Metropolitan University. This is is my personal webpage while I slowly build and transition it into a repository for information surrounding Neuro-AI. [Subscribe to my blog here](https://magic.beehiiv.com/v1/31a93b49-0c56-4395-9dbd-c86032593a94?email={{email}}) or [to my RSS feed.](https://tarlton.info/index.xml)**
+**Hi, I'm Mike! I'm a Neuro-AI researcher and PhD candidate based out of Oslo Metropolitan University. This is is my personal webpage, but I am slowly transitioning it into a repository for information surrounding Neuro-AI. [Subscribe to my blog here](https://magic.beehiiv.com/v1/31a93b49-0c56-4395-9dbd-c86032593a94?email={{email}}) or [to my RSS feed.](https://tarlton.info/index.xml)**
 
 **If you are reaching this from the IEEE NER 2025 Conference you can [[NER_2025|find more about my submission here]]. Otherwise check out my work and various projects below.** 
 
@@ -17,5 +17,5 @@ Michaelt (at) oslomet.no | M (at) Tarlton.info | [LinkedIn](https://www.linkedin
 > [Read my entire CV here.](CV)
 
 ---
-I am slowly porting much of my research to here and my blog, so subscribe to my blog or to the RSS feed for future updates.
+I am slowly porting my research knowledge base here, and will be publishing things to my blog once I figure that out, [so subscribe here]() or follow me [via my RSS feed](https://tarlton.info/index.xml).
 %% <iframe src="https://neuroai.beehiiv.com/" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe> %%

@@ -51,11 +51,11 @@ SORT file.cday DESC
 
 
 # Figures
-![[image-20230427164611214.png]]
+![[public/Citations/tanStrategyBenchmarkConverting2020_Amedia/image-20230427164611214.png]]
 
 
 
-![[image-20230427161631140.png]]
+![[public/Citations/tanStrategyBenchmarkConverting2020_Amedia/image-20230427161631140.png]]
 
 
 

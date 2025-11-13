@@ -184,7 +184,7 @@ SORT file.cday DESC
 # Figures (blue)
 
 > [!Figure 4]
-> ![[DKZIUXNZ.png]]
+> ![[public/Citations/melloScalablePopulationCode2015_Amedia/DKZIUXNZ.png]]
 > **Page 1117**
 > 
 > ---

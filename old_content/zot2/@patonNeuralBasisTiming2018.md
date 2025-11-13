@@ -53,7 +53,7 @@ Annotations(6/21/2022, 8:45:10 AM)
 
 ==***“Fig 1”***==
 
-![[patonNeuralBasisTiming2018_24TGMQX5.png]] (p. 688)
+![[public/Citations/unlinked-attachements/patonNeuralBasisTiming2018-Attachments/patonNeuralBasisTiming2018_24TGMQX5.png]] (p. 688)
 
 
 > *“the timing field is to establish the correct taxonomy of time (Meck and Ivry, 2016).”* (p. 688)-  
@@ -188,4 +188,4 @@ After training, subjects undergo a procedure wherein the majority of trials are 
 
 ==***“Fig 1”***==
 
-![[patonNeuralBasisTiming2018_24TGMQX5.png]] (p. 688)
+![[public/Citations/unlinked-attachements/patonNeuralBasisTiming2018-Attachments/patonNeuralBasisTiming2018_24TGMQX5.png]] (p. 688)

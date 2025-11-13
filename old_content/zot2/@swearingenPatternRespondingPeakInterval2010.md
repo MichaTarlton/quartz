@@ -38,7 +38,7 @@ for the agents in gap trials
 > However, a quite different response pattern is observed in the reversed version of the PI procedure ([Buhusi & Meck, 2000](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964407/#R7)), in which subjects time the absence of a signal (e.g., in the dark) and their timing is interrupted by a signaled (e.g., illuminated) gap ([Figure 1B](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964407/figure/F1/)): Subjects delay their response function after the gap for a duration that is approximately the sum of the gap and pre-gap intervals, suggesting that on average they restart the entire timing process after the gap, using a reset response ([Buhusi & Meck, 2000](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964407/#R7)).
 > 
 > **Fig. 1**
-> ![[image-20220711170457440.png]]
+> ![[public/Citations/swearingenPatternRespondingPeakInterval2010-Attachments/image-20220711170457440.png]]
 > **The peak-interval (PI) procedure with gaps**
 > Subjects time the presence of a signal (Standard, panel A) or the absence of a signal (Reversed, panel B). Subjects are randomly presented with fixed-interval (FI) trials, peak-interval (PI) trials, and gap trials in which the to-be-timed signal is interrupted by a retention-interval (gap). The upper graphs show that in PI trials the average response rate peaks at the to-be-timed interval, and that the presentation of a gap delays the response function. \* = reinforcement.
 

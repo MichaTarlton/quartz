@@ -47,7 +47,7 @@ Annotations(6/13/2022, 7:04:40 PM)
 
 > *“Long short-memory (LSTM) and gated recurrent unit (GRU) are advanced designs to mitigate shortcomings of RNN. But when the length of input sequence exceeds a certain limit, the gradient will still disappear. Meanwhile, each LSTM cell have four full connection layers, if the time span of LSTM is large and the network is very deep, the calculation will be very heavy and time-consuming. Further, too many parameters will lead to over fitting risk.”* (p. 1)
 
-![[sunReviewDesignsApplications2020_3WVXQ72P.png]] (p. 2)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_3WVXQ72P.png]] (p. 2)
 
 > *“Echo State Network (ESN) [6] is one of the key RC. ESNs are practical, conceptually simple, and easy to implement. ESNs employ the multiple high-dimensional projection in the large number of states of the reservoir with strong nonlinear mapping capabilities, to capture the dynamics of the input. This basic idea was first clearly spelled out in a neuroscientific model of the corticostriatal processing loop [3]. ESNs enjoy, under mild conditions, the so-called echo state property [6], that ensures that the effect of the initial condition vanishes after a finite transient. The inputs with more similar short-term history will evoke closer echo states, which ensure the dynamical stability of the reservoir.”* (p. 2)-  
 
@@ -61,7 +61,7 @@ Annotations(6/13/2022, 7:04:40 PM)
 
 ==***“How have ESNs combined these exactly? I assume it's supposing through its complex and undefined architecture?”***==
 
-![[sunReviewDesignsApplications2020_NYPU4BBC.png]] (p. 2)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_NYPU4BBC.png]] (p. 2)
 
 > *“Only parameters of readout weights Wout are subject to training.”* (p. 3)
 
@@ -91,7 +91,7 @@ Annotations(6/13/2022, 7:04:40 PM)
 
 ==***“Fig 2”***==
 
-![[sunReviewDesignsApplications2020_LFZXEMDY.png]] (p. 5)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_LFZXEMDY.png]] (p. 5)
 
 > *“non-periodic dynamical systems”* (p. 5)
 
@@ -116,10 +116,10 @@ Annotations(6/13/2022, 7:04:40 PM)
 > *“[29] Norbert Michael Mayer and Matthew Browne. Echo state networks and self-prediction. In Biologically Inspired Approaches to Advanced Information Technology, First International Workshop, BioADIT 2004, Lausanne, Switzerland, January 29-30, 2004. Revised Selected Papers, pages 40–48, 2004.”* (p. 23)
 
 
-![[sunReviewDesignsApplications2020_3WVXQ72P.png]] (p. 2)
-![[sunReviewDesignsApplications2020_NYPU4BBC.png]] (p. 2)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_3WVXQ72P.png]] (p. 2)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_NYPU4BBC.png]] (p. 2)
 -  
 
 ==***“Fig 2”***==
 
-![[sunReviewDesignsApplications2020_LFZXEMDY.png]] (p. 5)
+![[public/Citations/unlinked-attachements/sunReviewDesignsApplications2020-Attachments/sunReviewDesignsApplications2020_LFZXEMDY.png]] (p. 5)

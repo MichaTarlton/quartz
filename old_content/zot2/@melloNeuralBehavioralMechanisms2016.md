@@ -111,7 +111,7 @@ To guide behavior and learn from its consequences, the brain must represent time
 -  
 -  
 ==***“Fig 1.1”***==
-![[melloNeuralBehavioralMechanisms2016_TPZC9VUQ.png]] (p. 23)
+![[public/Citations/melloNeuralBehavioralMechanisms2016-Attachments/melloNeuralBehavioralMechanisms2016_TPZC9VUQ.png]] (p. 23)
 > *“state measures of time discrimination, such as wait time (i.e., PST, break point) on fixed interval schedules or peak-rate time (on peak procedure), are proportional to the to-be-timed interval (i.e., proportional accuracy sensitivity to the FI; [35]). Because SET posits that the error generated during the accumulation of pulses is proportional to the duration criterion, it presents an explanation for scalar variance sensitivity to the interval. More importantly, SET incorporates two features that have been supported by experimental data. Firstly, the current time estimate (encoding) and the memory for times reinforced in the past (decoding) follow independent laws [27]; and secondly, the behavior is driven by some sort of comparison between current and remembered time of reinforcement [29]”* (p. 24)
 > *“, sequential-state models characterize orderly transitions between different states which can be used to encode time [51,52,53].”* (p. 24) ^5pbq7a
 
@@ -175,5 +175,5 @@ To guide behavior and learn from its consequences, the brain must represent time
 ==***“pick back up here”***==
 -  
 ==***“Fig 1.1”***==
-![[melloNeuralBehavioralMechanisms2016_TPZC9VUQ.png]] (p. 23)
+![[public/Citations/melloNeuralBehavioralMechanisms2016-Attachments/melloNeuralBehavioralMechanisms2016_TPZC9VUQ.png]] (p. 23)
 

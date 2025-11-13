@@ -320,7 +320,7 @@ SORT file.cday DESC
 > ^QN45XCDFaCB5WD6T3p16
 
 > [!Fig 1]
-> ![[CU7Q2T3K.png]]
+> ![[public/Citations/oprisanResourceAllocationNoiseFree2022_Amedia/CU7Q2T3K.png]]
 > **Page 16**
 > 
 > ---
@@ -346,7 +346,7 @@ SORT file.cday DESC
 > ^T2YUKY6CaCB5WD6T3p18
 
 > [!Fig 2]
-> ![[HAATFJTT.png]]
+> ![[public/Citations/oprisanResourceAllocationNoiseFree2022_Amedia/HAATFJTT.png]]
 > **Page 18**
 > 
 > ---
@@ -354,7 +354,7 @@ SORT file.cday DESC
 > ^HAATFJTTaCB5WD6T3p18
 
 > [!Fig 3]
-> ![[JUAGBIS8.png]]
+> ![[public/Citations/oprisanResourceAllocationNoiseFree2022_Amedia/JUAGBIS8.png]]
 > **Page 19**
 > 
 > ---
@@ -371,7 +371,7 @@ SORT file.cday DESC
 > ^YR76VIYIaCB5WD6T3p19
 
 > [!Fig 4]
-> ![[F52ZCAWI.png]]
+> ![[public/Citations/oprisanResourceAllocationNoiseFree2022_Amedia/F52ZCAWI.png]]
 > **Page 20**
 > 
 > ---

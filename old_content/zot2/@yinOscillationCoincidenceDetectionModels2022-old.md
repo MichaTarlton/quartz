@@ -305,7 +305,7 @@ SORT file.cday DESC
 
 ## Figure 2. 
 
-![[image-20230417092955099.png]]
+![[public/Citations/unlinked-attachements/yinOscillationCoincidenceDetectionModels2022-old-Attachments/image-20230417092955099.png]]
 
 
 ==I don’t think this image is especially useful unsless you know the exci-inhib properties of the regions, and then still==

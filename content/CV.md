@@ -6,8 +6,8 @@ title: CV - Tarlton
 > 
 > ---
 > **Contact**
-> Michaelt@oslomet.no
-> M@Tarlton.info
+> Michaelt (@) oslomet.no
+> M (@) Tarlton.info
 > [LinkedIn](https://www.linkedin.com/in/m-tarlton/)
 > [GitHub](https://github.com/MichaTarlton)
 > [Twitter](https://twitter.com/michaeta)
