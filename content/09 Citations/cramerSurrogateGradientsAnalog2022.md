@@ -45,33 +45,13 @@ journal: Proceedings of the National Academy of Sciences of the United States of
 file: ""
 DOI: "10.1073/pnas.2109194119"
 dateadd: 2022-12-01T13:51:35Z
-collection: Notion
 citetype: Journal Article
 citekey: cramerSurrogateGradientsAnalog2022
 ---
 
 # Surrogate Gradients for Analog Neuromorphic Computing
-Zotero Link:: [Cramer et al_2022_Surrogate gradients for analog neuromorphic computing.pdf](zotero://open-pdf/library/items/UAYTU6SE); [Notion](); [pnas.2109194119.sapp.pdf](zotero://open-pdf/library/items/ZBSQKEIJ); [PubMed entry]()
-Reading Note:: [[B. Cramer, S. Billaudelle, S. Kanya, A. Leibfried, A. Grübl, V. Karasenko, C. Pehle, K. Schreiber, Y. Stradmann, J. Weis, J. Schemmel, F. Zenke (2022)]]
 > [!Excerpt] Abstract
 > To rapidly process temporal information at a low metabolic cost, biological neurons integrate inputs as an analog sum, but communicate with spikes, binary events in time. Analog neuromorphic hardware uses the same principles to emulate spiking neural networks with exceptional energy efficiency. However, instantiating high-performing spiking networks on such hardware remains a significant challenge due to device mismatch and the lack of efficient training algorithms. Surrogate gradient learning has emerged as a promising training strategy for spiking networks, but its applicability for analog neuromorphic systems has not been demonstrated. Here, we demonstrate surrogate gradient learning on the BrainScaleS-2 analog neuromorphic system using an in-the-loop approach. We show that learning self-corrects for device mismatch, resulting in competitive spiking network performance on both vision and speech benchmarks. Our networks display sparse spiking activity with, on average, less than one spike per hidden neuron and input, perform inference at rates of up to 85,000 frames per second, and consume less than 200 mW. In summary, our work sets several benchmarks for low-energy spiking network processing on analog neuromorphic hardware and paves the way for future on-chip learning algorithms.
-
-# Quick Reference
-
-# Top Comments
-
-Let's say grey is for overall comments
-
-# Tasks
-
-# Topics
-
-# Further Reading
-
-----
-# Notes
-
-----
 # Extracted Annotations and Comments
 
 # Figures
